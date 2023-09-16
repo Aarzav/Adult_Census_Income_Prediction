@@ -52,7 +52,7 @@ We invoked the ancient rites of hyperparameter tuning through the sacred Grid Se
 
 ## The Grand Finale
 
-After a journey filled with twists and turns, our conclusion is clear: 🚀 **XGBoost** reigns supreme! With the highest F1-score and precision, it stands as the champion of income prediction. It is our Excalibur, our Elder Wand, and our One Ring.
+After a journey filled with twists and turns, our conclusion is clear: 🚀 **XGBoost** reigns supreme! With the highest F2-score and precision, it stands as the champion of income prediction. It is our Excalibur, our Elder Wand, and our One Ring.
 
 ## What Lies Beyond
 
